@@ -106,14 +106,6 @@ The script includes comprehensive error handling for:
 - Video processing errors
 - Format conversion issues
 
-## License
-
-[Add your license information here]
-
 ## Contributing
 
-[Add contribution guidelines here]
-
-## Contact
-
-[Add your contact information here]
+Chaouch Thameur
